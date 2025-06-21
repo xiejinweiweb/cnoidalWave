@@ -1,5 +1,5 @@
 # cnoidalWave
-This is a wave generation procedure for wavemake, see more details in the ref. (2003, A note on estimation of the Jacobian elliptic parameter in cnoidal wave theory)
+This is a wave generation procedure for Cnoidal wave, see more details in the ref. (2003, A note on estimation of the Jacobian elliptic parameter in cnoidal wave theory)
 By the way, in ref., there is a type error found on page 1918 of the document, after formula (8) "in which 𝑚′ is the complementary elliptic parameter, i.e. 𝑚′=m−1”. It should be 𝑚′=1−m.
 
 Main functions:
